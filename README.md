@@ -2,7 +2,7 @@
 
 Cuarto entregable del PIA de Programación para Ciberseguridad!
 
-Este repositorio contiene los 11 módulos correspondientes al cuarto entregable del PIA de Programación para Ciberseguridad, además de un script principal para manejar los 11 módulos.
+Este repositorio contiene los 11 módulos correspondientes al cuarto entregable del PIA de Programación para Ciberseguridad, además de un script principal y tres módulos independientes para manejar los 11 módulos mediante el uso de menús.
 
 Contiene los siguientes módulos:
 
@@ -17,6 +17,13 @@ Contiene los siguientes módulos:
 9. RevealHiddenFiles.ps1
 10. PortScan.sh
 11. HoneypotCreation.sh
+
+Además, contiene los siguientes scripts y módulos extra para manejar los 11 módulos:
+12. PIA-4E
+13. pspy.py
+14. pypy.py
+15. shpy.py
+
 
 ======================================================
 
